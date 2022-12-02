@@ -157,6 +157,11 @@ out <a href="https://github.com/sindresorhus/awesome">awesome</a>.
     - [VSCode Icons](#vscode-icons)
     - [Seti Icons](#seti-icons)
     - [Material Icon Theme](#material-icon-theme)
+- [Diagram](#diagram)
+  - [Graphviz](#graphviz)
+  - [qiqiworld.vscode-markdown-tinymind](#qiqiworldvscode-markdown-tinymind)
+  - [hediet.vscode-drawio](#hedietvscode-drawio)
+  - [Markdown Preview Mermaid Support](#markdown-preview-mermaid-support)
 - [Uncategorized](#uncategorized)
   - [CodeRoad](#coderoad)
   - [Code Runner](#code-runner)
@@ -1011,6 +1016,42 @@ Example of toggling `typescript.inlayHints.functionLikeReturnTypes.enabled` by s
 ### [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
 ![Material Icon Theme](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/images/fileIcons.png)
+
+# Diagram
+
+> Preview Diagram in VSCode
+
+## Graphviz
+
+[Graphviz Markdown Preview](ttps://marketplace.visualstudio.com/items?itemName=geeklearningio.graphviz-markdown-preview)
+
+> Adds GraphViz support to VS Code's builtin markdown preview
+
+![graphviz_md](https://github.com/geeklearningio/graphviz-markdown-preview/raw/master/docs/example.png)
+
+[Graphviz (dot) language support for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=joaompinto.vscode-graphviz)
+
+> A vscode extension that provides language support and live preview for the Graphviz format.
+
+![graphviz_dot](https://github.com/joaompinto/vscode-graphviz/raw/master/images/graph_snippet.gif)
+
+## [qiqiworld.vscode-markdown-tinymind](https://marketplace.visualstudio.com/items?itemName=qiqiworld.vscode-markdown-tinymind)
+
+> MindMap plugin for VS Code's built-in markdown preview.
+
+![tinymind](https://raw.githubusercontent.com/1354092549/vscode-markdown-tinymind/master/screenshot/1.png)
+
+## [hediet.vscode-drawio](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio)
+
+> This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
+
+![drawio](https://github.com/hediet/vscode-drawio/raw/HEAD/docs/demo.gif)
+
+## [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+
+> Adds Mermaid diagram and flowchart support to VS Code's builtin markdown preview
+
+![mermaid](https://github.com/mjbvz/vscode-markdown-mermaid/raw/master/docs/example.png)
 
 # Uncategorized
 
